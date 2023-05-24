@@ -113,4 +113,17 @@ button {
     align-self: center;
     border: 1px solid #e5e7eb;
 }
+.sign-up h3 {
+    margin-bottom:-12px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.footer {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    color: #e5e7eb;
+    font-size: 16px;
+}
 
