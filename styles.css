@@ -1,0 +1,103 @@
+.header,
+.footer {
+    background-color: #1f2937;
+}
+div h1 {
+    font-weight: extra-bold;
+    font-size: 48;
+    color: #f9faf8
+}
+.head li,
+.description p {
+    font-size: 18px;
+    color: #e5e7eb
+}
+.logo {
+    color: #f9faf8;
+    font-size: 24px;
+}
+div.sign-up,
+ button {
+    background-color: #3883f6;
+}
+.second h2 {
+    font-size: 36px; 
+    font-weight: extra-bold; 
+    color: #1f2937;
+    text-align: center;
+}
+.quote{
+    background-color: #e5e7eb;
+    font-size: 36px; 
+    font-weight: light; 
+    color: #1f2937;
+    display: flex;
+    flex-direction: column;
+    padding: 100px 200px 100px 200px;
+}
+.quote .name {
+    align-self: flex-end;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    flex: auto;
+    margin: 0;
+    padding: 0;
+}
+.header {
+    display: flex;
+    flex-direction: column;
+    padding: 0 150px 100px 150px;
+    gap: 32px;
+}
+.head {
+    display: flex;
+    justify-content: space-between;
+}
+ul {
+    display: flex;
+    list-style: none;
+    align-items: center;
+    gap: 30px;
+}
+.next {
+    display: flex;
+    padding: 5px 0 64px;
+    gap: 16px;
+
+}
+.img {
+    border: 1px solid white;
+    flex: 1;
+}
+.description {
+    flex: 1;
+}
+button {
+    padding: 10px 32px;
+    color: #e5e7eb;
+    font-weight: bold;
+    font-size: 17px;
+}
+.img-text img {
+    width: 150px;
+    height: 150px;
+    border: 5px solid blue;
+    align-self: center;
+}
+.img-text {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.img-text div{
+    display: flex;
+    flex-direction: column;
+}
+.text {
+    text-align: center;
+}
+.second {
+    padding: 30px 150px 200px 150px;
+}
