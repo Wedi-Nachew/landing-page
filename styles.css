@@ -84,8 +84,9 @@ button {
 .img-text img {
     width: 150px;
     height: 150px;
-    border: 5px solid blue;
+    border: 5px solid #3883f6;
     align-self: center;
+    border-radius: 10%;
 }
 .img-text {
     display: flex;
