@@ -70,6 +70,9 @@ ul {
 .img {
     border: 1px solid white;
     flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .description {
     flex: 1;
