@@ -110,6 +110,7 @@ button {
     display: flex;
     justify-content: space-between;
     color: #e5e7eb;
+    border-radius: 15px;
 }
 .sign-up button{
     align-self: center;
