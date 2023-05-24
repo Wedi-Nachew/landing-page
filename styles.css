@@ -104,4 +104,5 @@ button {
 .sign-up{
     margin: 100px 150px;
     padding: 25px;
+    display: flex;
 }
