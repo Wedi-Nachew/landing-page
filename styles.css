@@ -105,4 +105,9 @@ button {
     margin: 100px 150px;
     padding: 25px;
     display: flex;
+    justify-content: space-between;
 }
+.sign-up button{
+    align-self: center;
+}
+
