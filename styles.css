@@ -79,6 +79,7 @@ button {
     color: #e5e7eb;
     font-weight: bold;
     font-size: 17px;
+    border: 1px solid #1f2937;
 }
 .img-text img {
     width: 150px;
@@ -106,8 +107,10 @@ button {
     padding: 25px;
     display: flex;
     justify-content: space-between;
+    color: #e5e7eb;
 }
 .sign-up button{
     align-self: center;
+    border: 1px solid #e5e7eb;
 }
 
