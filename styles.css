@@ -18,6 +18,7 @@ div h1 {
 .logo {
     color: #f9faf8;
     font-size: 24px;
+    font-family: 'Brush Script MT', script;
 }
 div.sign-up,
  button {
@@ -76,6 +77,7 @@ ul {
     display: flex;
     justify-content: center;
     align-items: center;
+    color: white;
 }
 .description {
     flex: 1;
